@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "homelab-skills",
+  "version": "1.0.0",
+  "description": "Personal skills for a self-hosted Rakazo: knowledge-base-first answers, release-note triage, a daily digest, and video recall.",
+  "author": { "name": "mcglothi" },
+  "license": "MIT",
+  "keywords": ["homelab", "knowledge-base", "releases", "digest"]
+}
